@@ -3,7 +3,7 @@
   <em>I'm a 26-year-old Computer Science student by day, and an aspiring indie game developer by night (and early morning).</em>
 </p>
 
-### 👩‍💻 About Me
+### About Me
 
 - 🎓 Currently studying **Computer Science** at the **University of Bari Aldo Moro**
 - 🎮 Indie game developer (one day)
