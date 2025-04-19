@@ -6,7 +6,6 @@
 ### About Me
 
 - 🎓 Currently studying **Computer Science** at the **University of Bari Aldo Moro**
-- 🎮 Indie game developer
 - 💪 Calisthenics girl
 - 🌸 Proud otaku
 
