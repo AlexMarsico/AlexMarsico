@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🎓 Currently studying Computer Science** at the **University of Bari Aldo Moro
+- 🎓 Currently studying Computer Science at the University of Bari Aldo Moro
 - 💪 Calisthenics girl
 - 🌸 Proud otaku
 
