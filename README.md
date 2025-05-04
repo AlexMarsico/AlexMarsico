@@ -5,7 +5,7 @@
 I'm a 26-year-old Computer Science student by day, and an aspiring indie game developer by night (and early morning)🎮.  
 I'm currently diving deep into C++, and my next step is to master Unreal Engine to start building high-quality games.
 
-My hands-on approach to game development began with a university exam, where we created a playable demo of a video game entirely from scratch — from initial planning to full implementation through code🧑‍💻.  
+My hands-on approach to game development began with a university exam, where we created a playable demo of a video game entirely from scratch — from initial planning to full implementation through code 🧑‍💻.  
 The game will be released once it's fully optimized, but if you're curious about the story behind it, you can find all the materials in my dedicated repository.
 
 ---
