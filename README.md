@@ -27,7 +27,4 @@ The game will be released once it's fully optimized, but if you're curious about
   <a href="https://www.linkedin.com/in/alessia-marsico-843315206/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
-  <a href="mailto:a.marsico@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" height="30" />
-  </a>
 </p>
