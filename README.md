@@ -1,8 +1,8 @@
-<h1 align="left">🎮 Alessia Marsico</h1>
+<h1 align="left">🎮 CrazyGame Studios</h1>
 <p align="left">
 </p>
 
-I'm a 26-year-old Computer Science student by day, and an aspiring indie game developer by night (and early morning)🎮.  
+Hi! I'm Alessia Marsico, i'm a 26-year-old Computer Science student by day, and an aspiring indie game developer by night (and early morning)🎮.  
 I'm currently diving deep into C++, and my next step is to master Unreal Engine to start building high-quality games.
 
 My hands-on approach to game development began with a university exam, where we created a playable demo of a video game entirely from scratch — from initial planning to full implementation through code 🧑‍💻.  
